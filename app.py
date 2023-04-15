@@ -1,5 +1,4 @@
 import toml
-import tomli_w
 from flask import Flask, request
 from flask_cors import CORS
 import tomllib
